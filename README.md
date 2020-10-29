@@ -33,7 +33,7 @@
 #
 ## 개발환경 및 사용언어
 - 개발환경
-  - Segger Embedded Studio for ARM v4.52c
+  - SEGGER Embedded Studio for ARM v4.52c
 - 사용언어
   - C
 #
